@@ -1,224 +1,132 @@
-# XMAX X2.1 Official Feature Page — English Copy
+# Xmax X2.1 Official Product Messaging Brief
 
-## Page Role
+## Product Name
 
-**Canonical route:** `/models/x2-1`  
-**Page type:** Model / developer platform feature page  
-**Primary CTA:** `Try X2.1` → `https://xmax.ai/platform/`  
-**Secondary CTA:** `Compare In StreamArena` → `https://arena.xmax.ai/`
+Xmax X2.1
 
-## SEO Metadata
+## One Line Positioning
 
-**Title**  
-XMAX X2.1 | Real-Time Interactive Video Model
+The real time interactive video model for building live video transformation.
 
-**Meta Description**  
-Build continuous, low-latency video transformation with XMAX X2.1. Transform live camera and video streams at up to 1080p with real-time interaction.
+## Short Description
 
-**Primary Keywords**  
-real-time interactive video model, real-time video transformation, live video AI, real-time video editing API, interactive video API
+Xmax X2.1 transforms live camera and video streams as they happen. It gives products and creators a way to change the look, character, setting, and behavior of video while people are still watching and taking part.
 
----
+## Official Description
 
-## Hero
+Xmax X2.1 is a real time interactive video model for building live video transformation. It is built for low latency interaction and continuous video input from cameras and video streams. Teams can use one model to create real time visual editing, interactive experiences, virtual cameras, live commerce tools, and entertainment products.
 
-# Real-Time Video That Responds While It Runs.
+## Core Selling Points
 
-XMAX X2.1 is a real-time interactive video model for transforming continuous camera and video streams. Build live experiences that can change their look, character, setting, and behavior while people are still watching and participating.
+### #1 Lowest Cost
 
-`Try X2.1`  
-`Compare In StreamArena`
+Xmax positions X2.1 as the lowest cost option in real time interactive video. Overseas usage starts from $0.0016 per second, making long running live experiences practical to test, launch, and scale.
 
-| 200 ms | Up To 1080p | Continuous Streams | From $0.0016/s |
-| --- | --- | --- | --- |
-| Reported end-to-end latency | High-definition output | Camera and video input | Reported overseas price |
+### Made For Live Interaction
 
-**Caption:** Current specifications, availability, and pricing are maintained in the XMAX Platform.
+X2.1 is built for low latency video interaction. With reported 200 ms end to end latency, visual changes can feel connected to the person, movement, and moment on screen.
 
----
+### Built For Continuous Video
 
-## The Difference Is Continuity
+X2.1 transforms a camera or video stream while it keeps moving. It is designed for ongoing experiences, not only one time video renders.
 
-## Move Beyond One-Off Video Generation.
+### One Model, More Ways To Create
 
-Most generative video workflows begin with a prompt, render a clip, and ask you to start again for the next change. XMAX X2.1 is designed for an ongoing stream. It keeps responding as the camera moves, the subject acts, and the audience takes part.
+Change a character, outfit, style, background, object, or visual effect in real time. X2.1 also supports touch and spatial gesture interactions for experiences people can actively shape.
 
-That makes X2.1 a foundation for live products—not just a tool for making clips.
+## Key Specifications
 
-### Continuous, Not Clip-Based
-
-Transform a live camera or existing video stream without breaking the flow. Keep the experience running while the visual result changes in context.
-
-### Interactive By Design
-
-Build experiences that respond to live input, including touch and spatial gesture interaction. Give viewers a way to influence what happens on screen.
-
-### Built For Commercial Scale
-
-Combine real-time output, up to 1080p quality, and a cost structure designed for long-running experiences. XMAX reports overseas usage from $0.0016 per second.
-
----
-
-## What You Can Transform
-
-## One Live Model, Many Visual Directions.
-
-### Restyle A Live Feed
-
-Change the visual language of an incoming stream while preserving the action and timing of the moment.
-
-### Change A Character Or Appearance
-
-Use reference images to transform a live subject into a new character, look, or visual identity.
-
-### Change Clothing And Style
-
-Bring a new outfit or style direction into a live video experience without stopping the stream.
-
-### Replace A Background Or Environment
-
-Move the subject into a new setting, then keep the environment responsive as the stream continues.
-
-### Add Or Change Objects And Effects
-
-Build real-time VFX, props, product placement, and scene edits into the live visual layer.
-
----
-
-## Model Specifications
-
-## Performance For Live Products.
-
-| Dimension | XMAX X2.1 |
+| Item | Xmax X2.1 |
 | --- | --- |
-| Model category | Real-time interactive and editing video model |
-| Input | Continuous camera and video streams |
+| Video input | Continuous camera and video streams |
 | Reported latency | 200 ms end to end |
-| Startup time | 0–2 seconds |
-| Output resolution | Up to 1080p |
-| Generation duration | Continuous / long-running sessions |
-| Interaction | Touch interaction and spatial gesture interaction |
-| Reported overseas price | From $0.0016 per second (approximately $6 per hour) |
-| China pricing reference | 20 RMB per hour (approximately 0.0056 RMB per second) |
+| Reported output | Up to 1080p |
+| Startup time | 0 to 2 seconds |
+| Session type | Continuous and long running |
+| Interaction | Touch and spatial gesture interaction |
+| Overseas price reference | From $0.0016 per second, approximately $6 per hour |
+| China price reference | 20 RMB per hour, approximately 0.0056 RMB per second |
 
-**Specification note:** Validate these figures against the XMAX Platform before publishing, quoting, or making purchase decisions. Regional availability, model versions, and prices may change.
+Current specifications, availability, and pricing should always be confirmed in the Xmax Platform before publication or purchase.
 
-`View Current Specs And Pricing`
+## Target Audiences
 
----
+### Product And Engineering Teams
 
-## Built For Experiences People Join Live
+Teams building video apps, interactive products, developer tools, consumer software, or AI powered devices that need a live visual layer.
 
-## From A Live Input To A Product Experience.
+### Live Creators And Streaming Platforms
 
-### Live Streaming
+Creators, agencies, and platforms that want character changes, visual effects, audience interaction, or a more expressive broadcast format.
 
-Give creators visual transformations, character changes, effects, and audience-triggered moments that happen during a broadcast.
+### Commerce And Fashion Teams
 
-### Video Calls And Virtual Cameras
+Brands and shopping products building real time virtual try on, live catalog visualization, or a more confident buying experience.
 
-Build a responsive visual identity layer for compatible calls, meetings, and social video software.
+### Entertainment And Hardware Teams
 
-### Fashion And Commerce
+Game, social, event, installation, and device teams that want people to influence a character, screen, or world in real time.
 
-Create real-time virtual try-on and live product visualization that helps shoppers see a direction before they decide.
+## Primary Scenarios
 
-### Interactive Entertainment
+### Live Streaming Enhancement
 
-Make a character, world, or visual effect respond to the viewer’s input instead of playing as a fixed video.
+Change the look of a host, add effects, and make audience participation visible while the stream is live.
 
-### Intelligent Hardware
+### Virtual Cameras And Video Calls
 
-Add a responsive visual layer to devices, screens, cameras, and interactive installations.
+Create a responsive identity layer that can be used as a virtual camera in compatible video software.
 
----
+### Real Time Virtual Try On
 
-## How X2.1 Fits Into A Product
+Let shoppers preview clothing, style, and visual direction on a live representation of themselves before they buy.
 
-## Build The Experience Around The Stream.
+### Interactive Characters And Entertainment
 
-1. **Send A Live Input**  
-   Start with a camera feed, video stream, or connected experience.
+Build characters and worlds that change with touch, gesture, voice, or audience input.
 
-2. **Define The Transformation**  
-   Add a reference image, prompt, interaction rule, or product-specific visual behavior.
+### Smart Screens And Devices
 
-3. **Return A Live Visual Output**  
-   Deliver the transformed stream to the product, virtual camera, broadcast, or interactive surface.
+Turn a camera feed into an interactive visual experience for devices, installations, and connected hardware.
 
-`Read The API Documentation`
+## Homepage Model Module Copy
 
----
+### Heading
 
-## Model Evaluation
+A Model Built For The Live Moment.
 
-## Compare The Experience, Not Just A Spec Sheet.
+### Description
 
-Use StreamArena to compare real-time video models with the same task and input. It is the clearest way to assess responsiveness, visual stability, reference fidelity, and fit for the live workflow you are building.
+Xmax X2.1 transforms continuous camera and video input instead of rendering a clip after the fact. Build experiences people can use while they are happening.
 
-`Compare In StreamArena`
+### Four Selling Point Cards
 
----
+| Card Title | Card Description |
+| --- | --- |
+| #1 Lowest Cost | From $0.0016 per second for overseas usage. |
+| Responds In 200 Ms | Low latency that keeps live interaction feeling natural. |
+| Keeps The Stream Moving | Transforms ongoing camera and video input, not only fixed clips. |
+| One Model, More Possibilities | Changes styles, people, scenes, objects, and effects at up to 1080p. |
 
-## FAQ
-
-### What Is XMAX X2.1?
-
-XMAX X2.1 is XMAX’s real-time interactive video model for transforming continuous camera and video streams.
-
-### How Is It Different From Conventional Video Generation?
-
-Conventional generation often produces a fixed clip after a render step. X2.1 is designed to keep transforming a live input while the experience is running.
-
-### What Can I Build With X2.1?
-
-Use it for live video transformation, virtual cameras, interactive streams, avatar experiences, virtual try-on, entertainment, and connected-device experiences.
-
-### Does X2.1 Support Interaction?
-
-X2.1 is designed for live input, including touch interaction and spatial gestures, so visual output can react as users participate.
-
-### Where Can I Find Current Pricing And Availability?
-
-Use the XMAX Platform as the source of record for current model specifications, availability, and pricing.
-
-### How Do I Start?
-
-Try X2.1 in the XMAX Platform. If you are building a product, start with the API documentation and evaluate the experience in StreamArena.
-
----
-
-## Final CTA
-
-## Build What Video Could Not Do Before.
-
-Start with XMAX X2.1 and make live video a responsive part of your product, stream, or experience.
+### CTA
 
 `Try X2.1`  
-`Explore The API`
+`Compare In StreamArena`
 
----
+## Reusable External Copy
 
-## Reusable Messaging For SEO, KOL, And Partner Materials
+### KOL And Social One Liner
 
-### Official One-Liner
+Xmax X2.1 lets you change what live video looks like while it is still happening, with reported 200 ms latency and usage from $0.0016 per second.
 
-XMAX X2.1 is a real-time interactive video model for building continuous live video transformation from camera and video streams.
+### SEO Description
 
-### Performance-Led One-Liner
+Xmax X2.1 is a real time interactive video model for continuous camera and video transformation. Build live visual editing, virtual cameras, interactive streams, and virtual try on at up to 1080p.
 
-XMAX X2.1 pairs reported 200 ms latency, up to 1080p output, and overseas pricing from $0.0016 per second for live video transformation.
+### Developer Description
 
-### Product-Led One-Liner
+Xmax X2.1 gives developers a single real time model for transforming continuous video input. Use it to build low latency visual editing, interactive characters, virtual cameras, and live product experiences.
 
-Instead of rendering a fixed clip, XMAX X2.1 keeps transforming a live stream—so users can see, influence, and interact with the video as it happens.
+## Claim Rules
 
-### Creator-Led One-Liner
-
-Change the character, style, clothing, background, and visual effects of a live stream without asking the moment to stop.
-
-### Required Claim Discipline
-
-- Say `XMAX reports` for latency, resolution, pricing, and market-leading claims unless the linked live platform page independently verifies the exact statement.
-- Link to the XMAX Platform for current specifications and pricing.
-- Link to StreamArena for competitor comparison rather than publishing a static superiority claim without a dated test method.
+Use `Xmax reports` or `Xmax positions` when quoting latency, resolution, price, market ranking, or performance claims outside an owned page that links to current specifications. Link to the Xmax Platform for current pricing and model details. Use StreamArena for dated, task based competitor comparisons rather than unsupported superiority language.
