@@ -1,8 +1,8 @@
-# Xmax X2.1 Official Product Messaging Brief
+# Xmax 2.1 Official Product Messaging Brief
 
 ## Product Name
 
-Xmax X2.1
+Xmax 2.1
 
 ## One Line Positioning
 
@@ -10,11 +10,11 @@ The real time interactive video model for building live video transformation.
 
 ## Short Description
 
-Xmax X2.1 transforms live camera and video streams as they happen. It gives products and creators a way to change the look, character, setting, and behavior of video while people are still watching and taking part.
+Xmax 2.1 transforms live camera and video streams as they happen. It gives products and creators a way to change the look, character, setting, and behavior of video while people are still watching and taking part.
 
 ## Official Description
 
-Xmax X2.1 is a real time interactive video model for building live video transformation. It is built for low latency interaction and continuous video input from cameras and video streams. Teams can use one model to create real time visual editing, interactive experiences, virtual cameras, live commerce tools, and entertainment products.
+Xmax 2.1 is a real time interactive video model for building live video transformation. It is built for low latency interaction and continuous video input from cameras and video streams. Teams can use one model to create real time visual editing, interactive experiences, virtual cameras, live commerce tools, and entertainment products.
 
 ## Core Selling Points
 
@@ -36,7 +36,7 @@ Change a character, outfit, style, background, object, or visual effect in real 
 
 ## Key Specifications
 
-| Item | Xmax X2.1 |
+| Item | Xmax 2.1 |
 | --- | --- |
 | Video input | Continuous camera and video streams |
 | Reported latency | 200 ms end to end |
@@ -93,11 +93,11 @@ Turn a camera feed into an interactive visual experience for devices, installati
 
 ### Heading
 
-A Model Built For The Live Moment.
+The #1 Real Time AI Video Model.
 
 ### Description
 
-Xmax X2.1 transforms continuous camera and video input instead of rendering a clip after the fact. Build experiences people can use while they are happening.
+Xmax 2.1 transforms continuous camera and video input instead of rendering a clip after the fact. Build experiences people can use while they are happening.
 
 ### Four Selling Point Cards
 
@@ -111,21 +111,21 @@ Xmax X2.1 transforms continuous camera and video input instead of rendering a cl
 ### CTA
 
 `Try X2.1`  
-`Compare In StreamArena`
+`Compare With Other Models`
 
 ## Reusable External Copy
 
 ### KOL And Social One Liner
 
-Xmax X2.1 lets you change what live video looks like while it is still happening, with reported 200 ms latency and usage from $0.0016 per second.
+Xmax 2.1 lets you change what live video looks like while it is still happening, with reported 200 ms latency and usage from $0.0016 per second.
 
 ### SEO Description
 
-Xmax X2.1 is a real time interactive video model for continuous camera and video transformation. Build live visual editing, virtual cameras, interactive streams, and virtual try on at up to 1080p.
+Xmax 2.1 is a real time interactive video model for continuous camera and video transformation. Build live visual editing, virtual cameras, interactive streams, and virtual try on at up to 1080p.
 
 ### Developer Description
 
-Xmax X2.1 gives developers a single real time model for transforming continuous video input. Use it to build low latency visual editing, interactive characters, virtual cameras, and live product experiences.
+Xmax 2.1 gives developers a single real time model for transforming continuous video input. Use it to build low latency visual editing, interactive characters, virtual cameras, and live product experiences.
 
 ## Claim Rules
 
