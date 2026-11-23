@@ -93,7 +93,7 @@ Turn a camera feed into an interactive visual experience for devices, installati
 
 ### Heading
 
-The #1 Real Time AI Video Model.
+Real Time Video Built For Interaction.
 
 ### Description
 
@@ -105,8 +105,8 @@ Xmax 2.1 transforms continuous camera and video input instead of rendering a cli
 | --- | --- |
 | #1 Lowest Cost | From $0.0016 per second for overseas usage. |
 | Responds In 200 Ms | Low latency that keeps live interaction feeling natural. |
-| Keeps The Stream Moving | Transforms ongoing camera and video input, not only fixed clips. |
-| One Model, More Possibilities | Changes styles, people, scenes, objects, and effects at up to 1080p. |
+| Continuous Video | Transforms a live camera or video stream as it happens. |
+| Built To Transform | Changes styles, people, scenes, objects, and effects at up to 1080p. |
 
 ### CTA
 
